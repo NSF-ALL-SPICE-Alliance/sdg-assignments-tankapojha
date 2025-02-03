@@ -14,9 +14,8 @@ We strongly encourage you to attend office hours for any reason at all 😎
 🕥 Tuesday 1:00 - 2:00 PM HST| [On Zoom](https://chaminade.zoom.us/j/97209901967)
 
 
-🕥 Fridays 9:00 - 10:30 AM HST | [on Zoom](https://us05web.zoom.us/j/89597429582?pwd=wS0I73HS0moCDyynFD5mSBOLYN6u62.1)
-- Meeting ID: 895 9742 9582
-- Passcode: 6Pkegk
+🕥 Fridays 9:00 - 10:30 AM HST | [on Zoom](https://chaminade.zoom.us/j/97209901967)
+
 
 If these hours don't work for you, set up an individual meeting by emailing connor.flynn@chaminade.edu and vdlcruz670@gmail.com
 
