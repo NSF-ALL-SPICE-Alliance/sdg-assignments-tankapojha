@@ -377,4 +377,5 @@ The awesome thing about data science is that there are so many helpful resources
 - [R Bloggers](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/)
 - [Univeristy of Cincinnati Business Anlytics R Programming Guide](https://uc-r.github.io/introduction)
 
+my_name = "Tanka"
 
